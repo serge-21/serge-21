@@ -1,16 +1,22 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there,+I'm+Serge👋)](https://git.io/typing-svg) 
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there,+I'm+Serge👋)](https://git.io/typing-svg)
 
-- &nbsp;🔭 I’m currently working on a new game with a couple of friends! &nbsp;
+- 🔭 I’m currently working on a new game with a couple of friends!
 
-- &nbsp;🌱 I’m also learning the MERN stack for web development.&nbsp;
+- 🌱 I’m also learning the MERN stack for web development.
 
-- &nbsp;📫 The fastest way to reach me would be via discord `スパゲティ先輩👾#5607` 
+- 📫 The fastest way to reach me would be via discord `スパゲティ先輩👾#5607` 
 
-&nbsp;Find me on [Stack Overflow](https://stackoverflow.com/users/9427869/serge-alkhalil), [LinkedIn](https://www.linkedin.com/in/serge-0860aa150//), and [Instagram](https://www.instagram.com/serge_alkhalil/)!
+Find me on [Stack Overflow](https://stackoverflow.com/users/9427869/serge-alkhalil), [LinkedIn](https://www.linkedin.com/in/serge-0860aa150//), and [Instagram](https://www.instagram.com/serge_alkhalil/)!
 
-<!-- in the future update to include personal website
+<!-- 
+in the future update to include personal website
+
 side note i like this picture but i don't think it fits for now XD
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/> -->
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
+
+or this one
+
+<img alt="dsmark" align="right"  height="50%" width="50%" src="https://camo.githubusercontent.com/e452efb28438ca145ff71360ef211395cce11753fd367e1fec17fca194c0dc43/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f616f39445569544b48363058532f67697068792e676966"> -->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=serge-21&theme=dark)](https://git.io/streak-stats)
 

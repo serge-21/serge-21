@@ -14,8 +14,6 @@ side note i like this picture but i don't think it fits for now XD
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=serge-21&theme=dark)](https://git.io/streak-stats)
 
----
-
 ### <h2 align="left">Languages I know:</h2>
 <p align="left"> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 

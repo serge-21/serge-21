@@ -6,7 +6,7 @@
 
 - 📫 The fastest way to reach me would be via discord `スパゲティ先輩👾#5607` 
 
-Find me on [Stack Overflow](https://stackoverflow.com/users/9427869/serge-alkhalil), [LinkedIn](https://www.linkedin.com/in/serge-0860aa150//), and [my personal website](https://serge-21.github.io/)!
+Find me on [Stack Overflow](https://stackoverflow.com/users/9427869/serge-alkhalil), [LinkedIn](https://www.linkedin.com/in/serge-0860aa150//), and my personal [website](https://serge-21.github.io/)!
 
 <!-- 
 in the future update to include personal website
